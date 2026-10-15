@@ -51,7 +51,6 @@ docker rm findit-campus
 ## CI/CD and deployment
 Add a GitHub Actions workflow to install dependencies, run `npm run build`, build the Docker image, and deploy to a chosen hosting provider. Configure provider credentials as GitHub repository Actions secrets. Record the real workflow run and live URL here after deployment.
 
-- GitHub repository: TODO
 - Live application URL: TODO
 
 ## Important limitations
