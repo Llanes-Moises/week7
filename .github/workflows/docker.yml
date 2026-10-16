@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/Matiyu-Oran/DEVOPS:latest
+          tags: ghcr.io/llanes-moises/week7:latest
