@@ -25,7 +25,7 @@ Open the URL of  Lostify (`(https://lostify-webapp.web.app)`).
 
 ## Documentation
 
-- PDF file:
+- PDF file: ('(https://drive.google.com/file/d/1Rzx4MvNvEVyp3kagh8OK2_-mot9YtNYF/view?usp=drive_link)')
 - Google Docs file: (`(https://docs.google.com/document/d/10Cbh7_0UBThmhJa09OJDOTH_JoXoWEcpTPabc1rOZYw/edit?tab=t.0)`).
 
 
